@@ -1,0 +1,2 @@
+model_checkpoint_path: "learning_save.chpt"
+all_model_checkpoint_paths: "learning_save.chpt"
